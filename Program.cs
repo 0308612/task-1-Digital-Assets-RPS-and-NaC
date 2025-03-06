@@ -55,7 +55,7 @@ namespace Assesment_1_IT_Sebastian_S
 							Console.ReadLine();
 							Environment.Exit(0);
 						}
-						if ((pScore == 2 && cScore == 2 && rounds == 3) || pScore == 3 && cScore == 3)
+						if ((pScore == 2 && cScore == 2 && rounds == 3) || pScore == 3 && cScore == 3 && rounds == 3)
 						{
 							win = "tie";
 							Console.WriteLine("\n");
